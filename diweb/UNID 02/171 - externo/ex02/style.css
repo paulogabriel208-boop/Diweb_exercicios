@@ -1,0 +1,20 @@
+   div {
+    height: 60px;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   }
+   .box1 {
+    background-color: lightblue;
+   }
+   .box2 {
+    background-color: darkgreen;
+   }
+   .box3 {
+    background-color: tomato;
+   }
+   .box4{
+    background-color: slateblue;
+    color: white;
+   }
